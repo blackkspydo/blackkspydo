@@ -4,7 +4,7 @@
 - Currently, I am working at [Grambell](https://grambell.com/) as a Frontend Engineer.
 
 ## 📊 My Github Stats
-<br/><img width="500" src="https://metrics.lecoq.io/blackkspydo" alt="Github Metrics">
+<p align="center"><p align="center"> <img width="500" src="https://metrics.lecoq.io/blackkspydo" alt="Github Metrics">
 
 
 
