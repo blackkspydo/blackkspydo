@@ -8,8 +8,10 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=blackkspydo&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-streak-stats.herokuapp.com/?user=blackkspydo&theme=dark)|
+![](https://github-readme-stats.vercel.app/api?username=blackkspydo&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkspydo&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=151515)|
 |-|-|
+
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=blackkspydo&theme=redical)
 
