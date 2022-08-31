@@ -23,7 +23,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
 
-          read: org 
+          
           token: ${{ secrets.GITHUB_TOKEN  }}
           # Options
           user: blackkspydo
