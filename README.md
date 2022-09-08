@@ -10,11 +10,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=blackkspydo&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=FFFFFF00)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkspydo&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)|
+![](https://github-readme-stats.vercel.app/api?username=blackkspydo&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkspydo&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)|
 |-|-|
 
 
-![](https://activity-graph.herokuapp.com/graph?username=blackkspydo&theme=redical&bg_color=ffffff00)
+![](https://activity-graph.herokuapp.com/graph?username=blackkspydo&theme=redical&bg_color=ffffff00&color=38BDAD)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
