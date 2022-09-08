@@ -1,7 +1,9 @@
 # Namaste :pray:
 
 - I am Kishor Upadhyaya, a passionate Software Engineer from Nepal 🇳🇵.
+- UnderGrad student at [Texas International](https://texasintl.edu.np/).
 - Currently, I am working at [Grambell](https://grambell.com/) as a Frontend Engineer.
+
 
 ## 📊 My Github Stats
 <p align="center"><p align="center"> <img src="https://metrics.lecoq.io/blackkspydo?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&poopmap=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=php&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=5&lines.history.limit=1&poopmap=false&poopmap.days=7&config.timezone=Asia%2FKathmandu" alt="blackkspydo"/>
