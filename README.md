@@ -2,7 +2,7 @@
 
 - I am [Kishor Upadhyaya](https://blackkspydo.com), a passionate Software Engineer from Nepal 🇳🇵.
 - UnderGrad student at [Texas International](https://texasintl.edu.np/).
-- Currently, I am working at [Grambell](https://grambell.com/) as a Frontend Engineer.
+- Currently, I am freelancing as a Frontend Engineer.
 - I write at [@blackkspydo/blog](https://blackkspydo.com/blog).
 
 
