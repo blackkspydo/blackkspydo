@@ -18,11 +18,6 @@ TypeScript, React, React Native, SvelteKit, and .NET.
   <img width="495" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=blackkspydo&theme=tokyonight&hide_border=true">
 </p>
 
-<p align="center" width="100%">
-  <img width="100%" alt="Contribution snake, dark" src="https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-  <img width="100%" alt="Contribution snake, light" src="https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-</p>
-
 ## On GitHub
 
 ### [openapi-mcp](https://github.com/blackkspydo/openapi-mcp)
